@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0022-generate-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Soumen-dev-ux/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1406-stone-game-iii) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Soumen-dev-ux/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
@@ -291,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
