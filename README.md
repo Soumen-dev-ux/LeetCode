@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Soumen-dev-ux/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1331-rank-transform-of-an-array](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumen-dev-ux/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
