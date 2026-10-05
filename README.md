@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Soumen-dev-ux/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Soumen-dev-ux/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -309,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
