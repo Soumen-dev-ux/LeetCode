@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1331-rank-transform-of-an-array](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1386-cinema-seat-allocation) |
