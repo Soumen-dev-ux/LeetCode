@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Soumen-dev-ux/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Soumen-dev-ux/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Soumen-dev-ux/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
