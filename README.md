@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Soumen-dev-ux/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Soumen-dev-ux/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Soumen-dev-ux/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Soumen-dev-ux/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Soumen-dev-ux/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Soumen-dev-ux/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Soumen-dev-ux/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Soumen-dev-ux/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Soumen-dev-ux/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Soumen-dev-ux/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Soumen-dev-ux/LeetCode/tree/master/0283-move-zeroes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Soumen-dev-ux/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Soumen-dev-ux/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Soumen-dev-ux/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Soumen-dev-ux/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Soumen-dev-ux/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
